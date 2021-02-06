@@ -2,7 +2,7 @@
 
 ## 결과 이미지
 
-<img src="/img/project-a2-result.png" width="100%" alt="프로젝트 A-2 결과 캡처 이미지">
+<img src="./img/project-a2-result.png" width="100%" alt="프로젝트 A-2 결과 캡처 이미지">
 
 <br/>
 
